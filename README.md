@@ -1,7 +1,4 @@
-Hello! I'm Muhammad Nur Yusri. Just call me Yusri.
-Currently I'm studying at Universitas Negeri Makassar, majoring in Computer Engineering degree.
-I'm really interested about tech development, especially on Mobile (Android) Development, Full-Stack Development (Both Front-End and Back-End), Artificial Intelligence, and also UI/UX Design.
-I'm currently learning about Mobile Development, using Kotlin as my main programming language.
+Final year student from Universitas Negeri Makassar, majoring in Computer Engineering degree. Big interest in technology, specific in Mobile Development. Experienced in building both Native and Hybrid Mobile applications. Great sense of responsibility and agile in carrying out tasks. Likes to learn new things every day to gain experience. I'm looking towards to apply and improve my skills in tech company.
 
 You can reach me on :
 - Linkedin = https://www.linkedin.com/in/muhnuryusri/
