@@ -1,3 +1,5 @@
+Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 Fresh graduate in Bachelor of Computer Engineering degree from Universitas Negeri Makassar. Big interest in technology, specific in Mobile Development. Experienced in building both Native and Hybrid Mobile applications. Great sense of responsibility and agile in carrying out tasks. Likes to learn new things every day to gain experience. I'm looking towards to apply and improve my skills in tech company.
 
 You can reach me on :
