@@ -20,10 +20,10 @@ Fresh graduate in Bachelor of Computer Engineering degree from Universitas Neger
     <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
     <li>😄 <b>Fun fact</b>: I love playing video games! 🎮, also traveling 🧳.</li>
   </ul>
-
+<br>
 
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=muhnuryusri&theme=gotham" alt="GitHub Streak" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhnuryusri&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=gotham" alt="GitHub Stats" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham" alt="GitHub Top Language" height="200" />
   </div>
 <!---
