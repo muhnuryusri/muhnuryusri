@@ -5,8 +5,10 @@ You can reach me on :
 - Instagram = https://www.instagram.com/muhnuryusri_/
 - Github = https://github.com/muhnuryusri
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhnuryusri&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhnuryusri&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhnuryusri)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 muhnuryusri/muhnuryusri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
